@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="crown" viewBox="0 0 64 52"><path d="M7 43 3 12l17 14L32 4l12 22 17-14-4 31H7Z" fill="none" stroke="currentColor" stroke-width="3" stroke-linejoin="round"/><path d="M8 48h48" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/></symbol>
+    <symbol id="building" viewBox="0 0 64 64"><path d="M9 57h46M15 57V13h27v44M42 27h9v30M22 21h6v7h-6zM32 21h6v7h-6zM22 33h6v7h-6zM32 33h6v7h-6zM22 45h6v12M32 45h6v12" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linejoin="round"/></symbol>
+    <symbol id="dollar" viewBox="0 0 64 64"><circle cx="32" cy="32" r="26" fill="none" stroke="currentColor" stroke-width="2.7"/><path d="M38 20c-2-2-5-3-8-3-5 0-9 3-9 7 0 10 21 5 21 17 0 5-4 8-10 8-4 0-8-2-10-4M32 12v40" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linecap="round"/></symbol>
+    <symbol id="shield" viewBox="0 0 64 64"><path d="M32 5 55 14v17c0 14-9 23-23 28C18 54 9 45 9 31V14L32 5Z" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linejoin="round"/><path d="m21 32 7 7 16-17" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="rocket" viewBox="0 0 64 64"><path d="M25 40 14 39l-8 8 14 2 2 10 8-8-1-10M26 38c8-17 19-27 32-31-2 14-12 25-29 34l-3-3Z" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linejoin="round"/><circle cx="43" cy="22" r="5" fill="none" stroke="currentColor" stroke-width="2.7"/><path d="m18 47-8 8" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linecap="round"/></symbol>
+    <symbol id="lock" viewBox="0 0 64 64"><rect x="10" y="27" width="44" height="31" rx="3" fill="none" stroke="currentColor" stroke-width="2.7"/><path d="M20 27V18a12 12 0 0 1 24 0v9M32 39v8" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linecap="round"/></symbol>
+    <symbol id="pencil" viewBox="0 0 64 64"><path d="m12 48-3 8 8-3 35-35-5-5-35 35ZM39 21l5 5" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linejoin="round"/></symbol>
+    <symbol id="document" viewBox="0 0 64 64"><path d="M16 6h24l10 10v42H16V6Z" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linejoin="round"/><path d="M40 6v11h10M24 29h18M24 38h18M24 47h12" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linecap="round"/></symbol>
+    <symbol id="user" viewBox="0 0 64 64"><circle cx="32" cy="20" r="11" fill="none" stroke="currentColor" stroke-width="2.7"/><path d="M12 57c1-13 8-20 20-20s19 7 20 20H12Z" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linejoin="round"/></symbol>
+  </defs>
+</svg>
