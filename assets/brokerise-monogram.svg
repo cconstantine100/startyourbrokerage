@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 500" role="img" aria-labelledby="title">
+  <title id="title">Brokerise crowned B</title>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8d611c"/><stop offset=".42" stop-color="#efd18c"/><stop offset=".7" stop-color="#c08b31"/><stop offset="1" stop-color="#765019"/></linearGradient>
+    <linearGradient id="black" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030303"/><stop offset=".45" stop-color="#555"/><stop offset=".66" stop-color="#111"/><stop offset="1" stop-color="#000"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-20%" width="160%" height="160%"><feDropShadow dx="8" dy="18" stdDeviation="12" flood-opacity=".25"/></filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <path d="M83 151 54 45l82 49 74-84 73 84 83-49-30 106H83Z" fill="url(#gold)" stroke="#60400f" stroke-width="4" stroke-linejoin="round"/>
+    <circle cx="137" cy="100" r="29" fill="#faf7f2"/>
+    <circle cx="283" cy="100" r="29" fill="#faf7f2"/>
+    <text x="210" y="434" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="350" font-weight="600" fill="url(#black)" stroke="#000" stroke-width="2">B</text>
+  </g>
+</svg>
